@@ -14,8 +14,6 @@ The data for this analysis is "Employee Survey.xlsx"[View here](https://docs.goo
 The exploratory phase aimed to answer questions such as 
 - Which survey questions did respondents agree with or disagree with most?
 - Is there any patterns or trends by department or role?
-- As an employer, what steps might you take to improve employee satisfaction based on the survey
-results?
 ## Data Analysis
 ### Data modeling 
 Sub-tables were created to identify the staff, manager, supervisors and directors in the employee table.
@@ -33,6 +31,8 @@ Sub-tables were created to identify the staff, manager, supervisors and director
 ## Results /Findings 
 - The respondents expressed the strongest agreement(92.29%) with the statement "I know what is expected of me at work", while they showed the least agreement(41.56%) with the statement "I have a best friend at my place of employment."
 - We observe that, across all roles, there is a significant level of disagreement with the statement "I have a best friend at work.
-  
-- 
+-Across all departments, except for the Sheriff's Department and the Clerk of Superior Courts, there is a notable level of disagreement with the statement "I have a best friend at work.
+## Recommendations 
+based on the analysis, To enhance relationships among colleagues and boost overall employee satisfaction, employers should consider organizing team-building activities and social events, such as scavenger hunts and icebreaker games, to encourage bonding. Additionally, fostering open communication and regular feedback can create a supportive work environment. Implementing policies that promote work-life balance and reduce workplace stress is also essential. Providing digital collaboration tools can streamline communication, while recognizing and rewarding teamwork can further strengthen interpersonal connections. By prioritizing these strategies, employers can cultivate a positive workplace culture that leads to higher employee satisfaction and retention.
+
 
