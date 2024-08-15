@@ -19,7 +19,7 @@ The exploratory phase aimed to answer questions such as
 Sub-tables were created to identify the staff, manager, supervisors and directors in the employee table.
 ![image](https://github.com/user-attachments/assets/83a17da7-c6da-4a65-93b9-26b36814a1df)
 
-### Dax codes used in creating the tables 
+### DAX codes used in creating the tables 
 ``` DAX
    Manager Table = FILTER('Employee',Employee[Manager]=1)
    StaffTable = FILTER(Employee,Employee[Staff]=1)
